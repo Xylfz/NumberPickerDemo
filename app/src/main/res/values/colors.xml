@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="colorGradientStart">#753F4F</color>
+    <color name="colorGradientEnd">#221E33</color>
+    <color name="colorSliderBg">#FB986C</color>
+    <color name="colorKnob">#CA6C42</color>
+    <color name="colorPopUpKnob">#FB986C</color>
+    <color name="colorInActiveNum">#59000000</color>
+    <color name="colorActiveNum">#FFFFFF</color>
+
+</resources>
